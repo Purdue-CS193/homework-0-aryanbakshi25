@@ -15,8 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+# Aryan Bakshi's First CS193 Homework
+
+- Pickleball
+- Rotting
+- Sidequesting
 
 1. Numbered
 2. List
